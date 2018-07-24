@@ -6,4 +6,4 @@ def say_hello("Gabriela")
   puts "Hello, #{your_name}"
 end 
 
-say_hello(your_name)
+say_hello("Gabriela")
